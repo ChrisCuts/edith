@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/edi_parser.py=utf-8
+encoding//src/edith.py=utf-8
+encoding//src/parserbridge.py=utf-8
+encoding//src/undostack.py=utf-8
